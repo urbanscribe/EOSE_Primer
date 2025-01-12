@@ -1,5 +1,3 @@
-# EOSE_Primer
-
 # EOSE Due Diligence & Analysis
 
 This repository contains key information and analysis for conducting due diligence on EOS Energy Enterprises (NASDAQ: EOSE).
